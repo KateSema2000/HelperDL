@@ -1,0 +1,793 @@
+<timetable><nametimetable>≤“Ў≤-18-1</nametimetable>
+<day><date>15.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ЎЌћнз ѕз 257</namelesson></lesson>
+</day>
+<day><date>20.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+</day>
+<day><date>02.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>09.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>16.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>23.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>30.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>07.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>14.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>21.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>03.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 327</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 327</namelesson></lesson>
+</day>
+<day><date>17.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+</day>
+<day><date>01.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+</day>
+<day><date>15.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 327</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 327</namelesson></lesson>
+</day>
+<day><date>28.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>04.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 257 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>11.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 424 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>18.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк ‘≤Ћ≤я (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>25.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>02.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>09.12.2021</date>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>16.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>23.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET Ћк 106≥</namelesson></lesson>
+</day>
+<day><date>29.10.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+</day>
+<day><date>05.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+</day>
+<day><date>19.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј ѕз ‘≤Ћ≤я (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤ћ“ј ѕз ‘≤Ћ≤я (є3)</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз ‘≤Ћ≤я (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз ‘≤Ћ≤я (є2)</namelesson></lesson>
+</day>
+<day><date>03.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј ѕз 255 (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤ћ“ј ѕз 255 (є3)</namelesson></lesson>
+</day>
+<day><date>10.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 366</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 366</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+</day>
+<day><date>24.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј ѕз ‘≤Ћ≤я (є3)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤ћ“ј ѕз ‘≤Ћ≤я (є3)</namelesson></lesson>
+</day>
+</timetable><timetable><nametimetable>≤“Ў≤-18-2</nametimetable>
+<day><date>01.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+</day>
+<day><date>15.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 151-2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 151-2</namelesson></lesson>
+</day>
+<day><date>29.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+</day>
+<day><date>13.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 257</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 257</namelesson></lesson>
+</day>
+<day><date>20.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз ѕз 165-2</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ЎЌћнз ѕз 165-2</namelesson></lesson>
+</day>
+<day><date>02.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>09.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>16.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>23.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>30.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>07.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>14.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>21.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт1</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>27.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-3</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-3</namelesson></lesson>
+</day>
+<day><date>10.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-3</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-3</namelesson></lesson>
+</day>
+<day><date>24.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+</day>
+<day><date>08.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕр.NET ѕз 318≥</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET ѕз 318≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-3</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-3</namelesson></lesson>
+</day>
+<day><date>22.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 258</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 258</namelesson></lesson>
+</day>
+<day><date>28.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>04.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 257 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>11.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 424 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>18.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк ‘≤Ћ≤я (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>25.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>02.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>09.12.2021</date>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>16.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>23.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є4)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET Ћк 106≥</namelesson></lesson>
+</day>
+<day><date>29.10.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+</day>
+<day><date>05.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤ћ“ј ѕз 165-1 (є4)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤ћ“ј ѕз 165-1 (є4)</namelesson></lesson>
+</day>
+<day><date>19.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз ‘≤Ћ≤я (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз ‘≤Ћ≤я (є2)</namelesson></lesson>
+</day>
+<day><date>26.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 255</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 255</namelesson></lesson>
+</day>
+<day><date>03.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤ћ“ј ѕз 165-2 (є4)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤ћ“ј ѕз 165-2 (є4)</namelesson></lesson>
+</day>
+<day><date>10.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є2)</namelesson></lesson>
+</day>
+<day><date>17.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤ћ“ј ѕз 165-1 (є4)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤ћ“ј ѕз 165-1 (є4)</namelesson></lesson>
+</day>
+<day><date>24.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤ћ“ј ѕз 165-2 (є4)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤ћ“ј ѕз 165-2 (є4)</namelesson></lesson>
+</day>
+</timetable><timetable><nametimetable>≤“ Ќ-18-7</nametimetable>
+<day><date>08.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+</day>
+<day><date>06.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+</day>
+<day><date>13.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala ѕз 258</namelesson></lesson>
+</day>
+<day><date>02.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>09.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>16.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>23.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>30.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>07.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>14.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>21.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>27.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз ‘≤Ћ≤я</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз ‘≤Ћ≤я</namelesson></lesson>
+</day>
+<day><date>03.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-1 (є1)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-1 (є1)</namelesson></lesson>
+</day>
+<day><date>10.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз ‘≤Ћ≤я</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз ‘≤Ћ≤я</namelesson></lesson>
+</day>
+<day><date>17.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+</day>
+<day><date>24.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 165-5 (є1)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 165-5 (є1)</namelesson></lesson>
+</day>
+<day><date>15.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-4 (є1)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-4 (є1)</namelesson></lesson>
+</day>
+<day><date>28.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>04.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 257 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>11.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 424 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>18.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк ‘≤Ћ≤я (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>25.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>02.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>09.12.2021</date>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>16.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>23.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET Ћк 106≥</namelesson></lesson>
+</day>
+<day><date>29.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 452а</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 452а</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+</day>
+<day><date>19.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз ‘≤Ћ≤я</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз ‘≤Ћ≤я</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+</day>
+<day><date>26.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт</namelesson></lesson>
+</day>
+<day><date>10.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 255</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+</day>
+<day><date>24.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET ѕз 255</namelesson></lesson>
+</day>
+</timetable><timetable><nametimetable>≤“ Ќ-18-8</nametimetable>
+<day><date>02.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>09.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>16.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>23.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>30.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>07.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>14.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>21.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>27.10.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+</day>
+<day><date>03.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-1 (є1)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-1 (є1)</namelesson></lesson>
+</day>
+<day><date>10.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+</day>
+<day><date>17.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз ѕз 151-3</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ЎЌћнз ѕз 151-3
+</namelesson></lesson>
+</day>
+<day><date>24.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 165-5 (є1)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 165-5 (є1)</namelesson></lesson>
+</day>
+<day><date>01.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз ѕз 151-4</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ЎЌћнз ѕз 151-4</namelesson></lesson>
+</day>
+<day><date>08.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>≤“в≤SW ѕз 151-4</namelesson></lesson>
+</day>
+<day><date>15.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-4 (є1)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є1); ≤ћ“ј ѕз 151-4 (є1)</namelesson></lesson>
+</day>
+<day><date>28.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>04.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 257 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>11.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 424 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>18.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк ‘≤Ћ≤я (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>25.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>02.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>09.12.2021</date>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>16.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є1)</namelesson></lesson>
+</day>
+<day><date>23.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є1)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET Ћк 106≥</namelesson></lesson>
+</day>
+<day><date>12.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+</day>
+<day><date>19.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+</day>
+<day><date>26.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт</namelesson></lesson>
+</day>
+<day><date>03.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+</day>
+<day><date>17.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+</day>
+<day><date>24.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+</day>
+</timetable><timetable><nametimetable>≤“ Ќ-18-9</nametimetable>
+<day><date>02.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>09.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>16.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>23.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>30.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>07.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>14.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>21.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт2</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕр.NET Ћк 102≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 102≥</namelesson></lesson>
+</day>
+<day><date>27.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+</day>
+<day><date>10.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+</day>
+<day><date>08.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ЎЌћнз ѕз 327</namelesson></lesson>
+</day>
+<day><date>28.10.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>04.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 257 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>11.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 424 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>18.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк ‘≤Ћ≤я (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>25.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>02.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>≤“в≤SW Ћк 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>09.12.2021</date>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>16.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ЎЌћнз Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт Ћк 206≥ (є2)</namelesson></lesson>
+</day>
+<day><date>23.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤ћ“ј Ћк 141 (є2)</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>ѕScala Ћк 104≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET Ћк 104≥</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET Ћк 106≥</namelesson></lesson>
+</day>
+<day><date>29.10.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є2); ≤ћ“ј ѕз 165-1 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є2); ≤ћ“ј ѕз 165-1 (є2)</namelesson></lesson>
+</day>
+<day><date>05.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+</day>
+<day><date>12.11.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 151-3</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 151-3</namelesson></lesson>
+</day>
+<day><date>19.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 306≥</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 306≥</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз ‘≤Ћ≤я (є2); ≤ћ“ј ѕз 151-3 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз ‘≤Ћ≤я (є2); ≤ћ“ј ѕз 151-3 (є2)</namelesson></lesson>
+</day>
+<day><date>26.11.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>‘¬ ѕз спорт</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 257</namelesson></lesson>
+</day>
+<day><date>03.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+</day>
+<day><date>10.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ћѕтќпт ѕз 255 (є2); ≤ћ“ј ѕз 165-2 (є2)</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ћѕтќпт ѕз 255 (є2); ≤ћ“ј ѕз 165-2 (є2)</namelesson></lesson>
+</day>
+<day><date>17.12.2021</date>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕр.NET ѕз 258</namelesson></lesson>
+</day>
+<day><date>24.12.2021</date>
+<lesson><number>3</number><time>11:15 12:50</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>4</number><time>13:10 14:45</time><namelesson>≤“в≤SW ѕз 327</namelesson></lesson>
+<lesson><number>5</number><time>14:55 16:30</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+<lesson><number>6</number><time>16:40 18:15</time><namelesson>ѕScala ѕз 257</namelesson></lesson>
+</day>
+</timetable>
